@@ -23,7 +23,7 @@ Publications
 - Towards User-level Private Reinforcement Learning with Human Feedback [[arxiv]](https://export.arxiv.org/abs/2502.17515)
 
 
-  **Jiaming Zhang***, Mingxi Lei*, Meng Ding, Mengdi Li, Zihang Xiang, Difei Xu, Jinhui Xu, Di Wang
+  **Jiaming Zhang**\*, Mingxi Lei\*, Meng Ding, Mengdi Li, Zihang Xiang, Difei Xu, Jinhui Xu, Di Wang
 
 
    Submitted to ACL2025
