@@ -22,12 +22,12 @@ repository               : "traderbxy/jiamingzhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "照片1.jpg"
+  avatar           : "/images/照片1.jpg"
   name             : "Jiaming Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Beijing, China"
-  employer         : "Red Brick University"
+  employer         : "Renmin University of China"
   uri              : 
   email            : "zhangjiaming2002@ruc.edu.cn" 
 
