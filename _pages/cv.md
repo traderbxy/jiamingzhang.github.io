@@ -25,12 +25,12 @@ Internships
 
 * 10/2024 - 6/2025: Intern
   * Intelligent Game and Decision Laboratory
-  * Duties includes: Developed and implemented anomaly detection algorithms for spacecraft telemetry data using advanced generative models (LSTM-VAE, Transformer) and kernel density estimation.
+  * Duties includes: Developed and implemented anomaly detection algorithms for spacecraft telemetry data using advanced generative models (LSTM-VAE, Transformer-AE) and kernel density estimation.
   * Supervisor: Xiaohu Zheng
 
 Publications
 ======
-[Towards User-level Private Reinforcement Learning with Human Feedback](https://export.arxiv.org/abs/2502.17515)  Submitted to ACL2025
+[Towards User-level Private Reinforcement Learning with Human Feedback](https://export.arxiv.org/abs/2502.17515)  CoLM 2025
 - **Jiaming Zhang**\*, Mingxi Lei\*, Meng Ding, Mengdi Li, Zihang Xiang, Difei Xu, Jinhui Xu, Di Wang
 - Developed AUP-RLHF, a novel framework integrating user-level label differential privacy (DP) into Reinforcement Learning with Human Feedback (RLHF) to protect user preference privacy. Demonstrated that traditional Random Response algorithms perform suboptimally in user-level settings. Proposed a lower bound for user-level DP-RLHF and designed the AUP-RLHF algorithm, achieving ($\varepsilon$,$\delta$)-user-level privacy with improved estimation error.
 
