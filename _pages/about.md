@@ -16,17 +16,32 @@ Research Interests
 My research interests lie in machine learning privacy and trustworthy AI. My research topics include differential privacy, alignment of large language models, and the theory of adversarial robustness.
 
 
+News
+======
+
+- **Jul 8, 2025:**
+  One paper have been accepted at the [Conference on Language Modeling (CoLM 2025)](https://colmweb.org/)!
+
+- **Jun 27, 2025:**
+  🎓 I graduated with a Bachelor's degree from **Renmin University of China (RUC)**.
+
+- **Feb 26, 2025:**
+  We released our new paper ["Towards User-level Private Reinforcement Learning with Human Feedback"](https://arxiv.org/pdf/2502.17515)
+
+  
 Publications
 ======
 \* indicates co-first authors.
   
-- Towards User-level Private Reinforcement Learning with Human Feedback [[arxiv]](https://export.arxiv.org/abs/2502.17515)
+- Towards User-level Private Reinforcement Learning with Human Feedback [[arxiv]](https://arxiv.org/pdf/2502.17515)
 
 
   **Jiaming Zhang**\*, Mingxi Lei\*, Meng Ding, Mengdi Li, Zihang Xiang, Difei Xu, Jinhui Xu, Di Wang
 
 
-   Submitted to ACL2025
+   Conference on Language Modeling (CoLM 2025)
+
+
 
 
 Teaching
