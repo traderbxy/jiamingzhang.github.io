@@ -11,9 +11,25 @@ Hi, I am a forth year undergraduate student at the [School of Statistics](http:/
 
 Currently, I am working as a remote intern at the [Provable Responsible AI and Data Analytics (PRADA) Lab](https://www.kaust.edu.sa/en) at [KAUST](https://pradalab1.github.io/), advised by [Prof. Di Wang](https://shao3wangdi.github.io/).
 
+Also, I am collaborating with the [TEA Lab](https://tea.ece.ubc.ca/) at the [University of British Columbia (UBC)](https://www.ubc.ca/).
+
 Research Interests
 ======
-My research interests lie in machine learning privacy and trustworthy AI. My research topics include differential privacy, alignment of large language models, and the theory of adversarial robustness.
+
+
+My general research interest lies in **Trustworthy AI**. More specifically, I am currently focusing on the following directions:
+
+- **Privacy in Reinforcement Learning with Human Feedback (RLHF):**  
+  Exploring how to protect user/annotator privacy in the training process of large language models guided by human feedback.
+
+- **Benign Overfitting in Large Language Models (LLMs):**  
+  Studying the phenomenon where overparameterized models generalize well despite fitting noisy or mislabeled data.  
+  This includes analyzing the **learning dynamics** of LLMs to better understand how and why benign overfitting occurs.
+
+- **Data Valuation/Attribution:**  
+  Developing efficient methods for estimating the value and influence of individual training data points, with applications to data pruning and selection.
+
+I am broadly interested in making machine learning systems more **transparent**, **reliable**, and **accountable**.
 
 
 News
