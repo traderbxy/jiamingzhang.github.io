@@ -57,7 +57,12 @@ Publications
 
    Conference on Language Modeling (CoLM 2025)
 
+- Efficient Forward-Only Data Valuation for Pretrained LLMs and VLMs
 
+  Wenlong Deng, **Jiaming Zhang**, Qi Zeng, Christos Thrampoulidis, Boying Gong, Xiaoxiao Li
+
+  
+  Submitted to AAAI 2026
 
 
 Teaching
