@@ -35,7 +35,9 @@ I am broadly interested in making machine learning systems more **transparent**,
 News
 ======
 
-- **Jul 8, 2025:**
+- **Aug 13, 2025:**
+  We released our new paper ["Efficient Forward-Only Data Valuation for Pretrained LLMs and VLMs"](https://arxiv.org/pdf/2508.10180)
+- **Jul &nbsp;08, 2025:**
   One paper have been accepted at the [Conference on Language Modeling (CoLM 2025)](https://colmweb.org/)!
 
 - **Jun 27, 2025:**
@@ -59,7 +61,7 @@ Publications
 
 - Efficient Forward-Only Data Valuation for Pretrained LLMs and VLMs
 
-  Wenlong Deng, **Jiaming Zhang**, Qi Zeng, Christos Thrampoulidis, Boying Gong, Xiaoxiao Li
+  Wenlong Deng, **Jiaming Zhang**, Qi Zeng, Christos Thrampoulidis, Boying Gong, Xiaoxiao Li [[arxiv]](https://arxiv.org/pdf/2508.10180)
 
   
   Submitted to AAAI 2026
