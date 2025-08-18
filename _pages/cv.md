@@ -17,7 +17,7 @@ Education
 
 Internships
 ======
-* 10/2024 - Now: Remote Intern
+* 7/2025 - Now: Remote Intern
   * PRADA Lab, King Abdullah University of Science and Technology (KAUST)
   * Duties includes: Applied Differential Privacy (DP) techniques to enhance data privacy in machine learning models. Investigated the development of trustworthy Large Language Models (LLMs) with a focus on adversarial robustness theory and adversarial training methods.
   * Supervisor: **[Di Wang](https://shao3wangdi.github.io/)**
@@ -30,6 +30,12 @@ Internships
 
 Publications
 ======
+
+[Efficient Forward-Only Data Valuation for Pretrained LLMs and VLMs](https://arxiv.org/pdf/2508.10180)  Submitted to AAAI 2026
+- Wenlong Deng, **Jiaming Zhang**, Qi Zeng, Christos Thrampoulidis, Boying Gong, Xiaoxiao Li
+- We propose For-Value, a forward-only data valuation framework for LLMs and VLMs. It estimates per-sample influence with a single forward pass using hidden representation alignment and prediction errors, avoiding gradients or retraining. For-Value achieves scalable influence estimation and outperforms gradient-based baselines in fine-tuning and mislabeled data detection.
+
+
 [Towards User-level Private Reinforcement Learning with Human Feedback](https://export.arxiv.org/abs/2502.17515)  CoLM 2025
 - **Jiaming Zhang**\*, Mingxi Lei\*, Meng Ding, Mengdi Li, Zihang Xiang, Difei Xu, Jinhui Xu, Di Wang
 - Developed AUP-RLHF, a novel framework integrating user-level label differential privacy (DP) into Reinforcement Learning with Human Feedback (RLHF) to protect user preference privacy. Demonstrated that traditional Random Response algorithms perform suboptimally in user-level settings. Proposed a lower bound for user-level DP-RLHF and designed the AUP-RLHF algorithm, achieving ($\varepsilon$,$\delta$)-user-level privacy with improved estimation error.
