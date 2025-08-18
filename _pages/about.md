@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a forth year undergraduate student at the [School of Statistics](http://stat.ruc.edu.cn/Home/index.htm), [Renmin University of China](https://en.ruc.edu.cn/). And I will pursue a two-year master's program at Renmin University of China.
+I am a first-year master's student at the [School of Statistics](http://stat.ruc.edu.cn/Home/index.htm), [Renmin University of China](https://en.ruc.edu.cn/). 
+<b><span style="color:red">I am currently seeking PhD opportunities for Fall 2027.</span></b>
 
 Currently, I am working as a remote intern at the [Provable Responsible AI and Data Analytics (PRADA) Lab](https://www.kaust.edu.sa/en) at [KAUST](https://pradalab1.github.io/), advised by [Prof. Di Wang](https://shao3wangdi.github.io/).
 
