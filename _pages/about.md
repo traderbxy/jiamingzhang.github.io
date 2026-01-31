@@ -12,7 +12,6 @@ I am a first-year master's student at the [School of Statistics](http://stat.ruc
 
 Currently, I am working as a remote intern at the [Provable Responsible AI and Data Analytics (PRADA) Lab](https://www.kaust.edu.sa/en) at [KAUST](https://pradalab1.github.io/), advised by [Prof. Di Wang](https://shao3wangdi.github.io/).
 
-Also, I am collaborating with the [TEA Lab](https://tea.ece.ubc.ca/) at the [University of British Columbia (UBC)](https://www.ubc.ca/).
 
 Research Interests
 ======
