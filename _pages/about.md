@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year master's student at the [School of Statistics](http://stat.ruc.edu.cn/Home/index.htm), [Renmin University of China](https://en.ruc.edu.cn/).  
+I am a first-year master's student at the [School of Statistics](http://stat.ruc.edu.cn/Home/index.htm), [Renmin University of China](https://en.ruc.edu.cn/), advised by [Prof. Feng Zhou](https://zhoufeng6288.github.io/).  
 <b><span style="color:red">I am currently seeking PhD opportunities for Fall 2027.</span></b>
 
-Currently, I am working as a remote intern at the [Provable Responsible AI and Data Analytics (PRADA) Lab](https://www.kaust.edu.sa/en) at [KAUST](https://pradalab1.github.io/), advised by [Prof. Di Wang](https://shao3wangdi.github.io/).
+Currently, I am working as a remote intern at University of Illinois Urbana-Champaign (UIUC), advised by [Prof. Jiaqi Ma](https://jiaqima.github.io/). Previously, I was a remote intern at the [Provable Responsible AI and Data Analytics (PRADA) Lab](https://www.kaust.edu.sa/en) at [KAUST](https://pradalab1.github.io/), advised by [Prof. Di Wang](https://shao3wangdi.github.io/), and [Trusted and Efficient AI (TEA) lab](https://ubc-tea.github.io/lab-web/) at UBC advised by [Prof. Xiaoxiao Li](https://xxlya.github.io/).
 
 
 Research Interests
@@ -34,9 +34,14 @@ I am broadly interested in making machine learning systems more **transparent**,
 
 News
 ======
-
+- **Apr 07, 2026:**
+  One paper have been accepted at the [ACL2026](https://2026.aclweb.org)!
+- **Mar 03, 2026:**
+  Two paper have been accepted at the [ICLR2026 DATA-FM Workshop](https://iclr.cc/virtual/2026/workshop/10000798)!
+- **Feb 01, 2026:**
+  We released our new paper ["Understanding the Impact of Differentially Private Training on Memorization of Long-Tailed Data"](https://arxiv.org/pdf/2602.03872).
 - **Aug 13, 2025:**
-  We released our new paper ["Efficient Forward-Only Data Valuation for Pretrained LLMs and VLMs"](https://arxiv.org/pdf/2508.10180)
+  We released our new paper ["Efficient Forward-Only Data Valuation for Pretrained LLMs and VLMs"](https://arxiv.org/pdf/2508.10180).
 - **Jul &nbsp;08, 2025:**
   One paper have been accepted at the [Conference on Language Modeling (CoLM 2025)](https://colmweb.org/)!
 
@@ -44,7 +49,7 @@ News
   🎓 I graduated with a Bachelor's degree from **Renmin University of China (RUC)**.
 
 - **Feb 26, 2025:**
-  We released our new paper ["Towards User-level Private Reinforcement Learning with Human Feedback"](https://arxiv.org/pdf/2502.17515)
+  We released our new paper ["Towards User-level Private Reinforcement Learning with Human Feedback"](https://arxiv.org/pdf/2502.17515).
 
   
 Publications
@@ -61,12 +66,17 @@ Publications
 
 - Efficient Forward-Only Data Valuation for Pretrained LLMs and VLMs [[arxiv]](https://arxiv.org/pdf/2508.10180)
 
-  Wenlong Deng, **Jiaming Zhang**, Qi Zeng, Christos Thrampoulidis, Boying Gong, Xiaoxiao Li 
+  Wenlong Deng, Qi Zeng, **Jiaming Zhang**, Christos Thrampoulidis, Boying Gong, Xiaoxiao Li 
 
   
-  Submitted to AAAI 2026
+   ACL 2026
 
+- Understanding the Impact of Differentially Private Training on Memorization of Long-Tailed Data [[arxiv]](https://arxiv.org/pdf/2602.03872)
 
+  **Jiaming Zhang**, Huanyi Xie, Meng Ding, Shaopeng Fu, Jinyan Liu, Di Wang
+
+  Submitted to ICML 2026
+  
 Teaching
 ======
 - Teaching Assistant of Regression Analysis, 2024 fall, Renmin University of China
