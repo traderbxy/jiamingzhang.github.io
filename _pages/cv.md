@@ -31,8 +31,8 @@ Internships
 Publications
 ======
 
-[Efficient Forward-Only Data Valuation for Pretrained LLMs and VLMs](https://arxiv.org/pdf/2508.10180)  Submitted to AAAI 2026
-- Wenlong Deng, **Jiaming Zhang**, Qi Zeng, Christos Thrampoulidis, Boying Gong, Xiaoxiao Li
+[Efficient Forward-Only Data Valuation for Pretrained LLMs and VLMs](https://arxiv.org/pdf/2508.10180)  ACL 2026
+- Wenlong Deng, Qi Zeng, **Jiaming Zhang**, Christos Thrampoulidis, Boying Gong, Xiaoxiao Li
 - We propose For-Value, a forward-only data valuation framework for LLMs and VLMs. It estimates per-sample influence with a single forward pass using hidden representation alignment and prediction errors, avoiding gradients or retraining. For-Value achieves scalable influence estimation and outperforms gradient-based baselines in fine-tuning and mislabeled data detection.
 
 
