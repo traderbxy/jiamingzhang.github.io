@@ -34,16 +34,18 @@ I am broadly interested in making machine learning systems more **transparent**,
 
 News
 ======
+- **May 01, 2026:**
+  Two paper (one **first-author** and one **co-first author**) have been accepted at the **[ICML 2026](https://icml.cc/)**! See you in Seoul!
 - **Apr 07, 2026:**
-  One paper have been accepted at the [ACL2026](https://2026.aclweb.org)!
+  One paper have been accepted at the **[ACL Main 2026](https://2026.aclweb.org)**!
 - **Mar 03, 2026:**
-  Two paper have been accepted at the [ICLR2026 DATA-FM Workshop](https://iclr.cc/virtual/2026/workshop/10000798)!
+  Two paper have been accepted at the **[ICLR2026 DATA-FM Workshop](https://iclr.cc/virtual/2026/workshop/10000798)**!
 - **Feb 01, 2026:**
   We released our new paper ["Understanding the Impact of Differentially Private Training on Memorization of Long-Tailed Data"](https://arxiv.org/pdf/2602.03872).
 - **Aug 13, 2025:**
   We released our new paper ["Efficient Forward-Only Data Valuation for Pretrained LLMs and VLMs"](https://arxiv.org/pdf/2508.10180).
 - **Jul &nbsp;08, 2025:**
-  One paper have been accepted at the [Conference on Language Modeling (CoLM 2025)](https://colmweb.org/)!
+  One paper (**first-author**) have been accepted at the **[Conference on Language Modeling (CoLM 2025)](https://colmweb.org/)**!
 
 - **Jun 27, 2025:**
   🎓 I graduated with a Bachelor's degree from **Renmin University of China (RUC)**.
@@ -55,6 +57,12 @@ News
 Publications
 ======
 \* indicates co-first authors.
+
+- Benign Overfitting in Adversarial Training for Vision Transformers [[arxiv]](https://arxiv.org/pdf/2604.19724)
+
+  **Jiaming Zhang**, Meng Ding, Shaopeng Fu, Jingfeng Zhang, Di Wang
+
+  ICML 2026 (CCF-A)
   
 - Towards User-level Private Reinforcement Learning with Human Feedback [[arxiv]](https://arxiv.org/pdf/2502.17515)
 
@@ -69,13 +77,13 @@ Publications
   Wenlong Deng, Qi Zeng, **Jiaming Zhang**, Christos Thrampoulidis, Boying Gong, Xiaoxiao Li 
 
   
-   ACL 2026
+   ACL Main 2026 (CCF-A)
 
 - Understanding the Impact of Differentially Private Training on Memorization of Long-Tailed Data [[arxiv]](https://arxiv.org/pdf/2602.03872)
 
-  **Jiaming Zhang**, Huanyi Xie, Meng Ding, Shaopeng Fu, Jinyan Liu, Di Wang
+  **Jiaming Zhang**\*, Huanyi Xie\*, Meng Ding, Shaopeng Fu, Jinyan Liu, Di Wang
 
-  Submitted to ICML 2026
+  Submitted to NeurIPS 2026
   
 Teaching
 ======
