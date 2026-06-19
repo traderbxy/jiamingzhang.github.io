@@ -8,21 +8,20 @@ redirect_from:
 ---
 
 <style>
-  /* 针对 AcademicPages / Minimal Mistakes 模板强制拓宽主内容区域 */
-  .wrapper, 
-  .container, 
-  .markdown-body, 
-  main, 
-  #main, 
-  article, 
+  /* 1. 仅拓宽最外层的网页包裹容器，给整个页面腾出更大的横向空间 */
+  .wrapper {
+    max-width: 1350px !important; /* 调大整体页面的最大宽度（默认通常是 1280px 以下） */
+  }
+
+  /* 2. 恢复主题自带的双栏计算，彻底防止内容与左侧头像重叠 */
+  .page, 
+  .page__content, 
+  .archive, 
   .post, 
-  .page,
-  .page__content,
-  .archive,
   .page-content, 
   .post-content {
-    max-width: 1100px !important; /* 可以根据需要调整，如 1100px 或 1200px */
-    width: 100% !important;
+    width: auto !important; 
+    max-width: none !important;
   }
 </style>
 
