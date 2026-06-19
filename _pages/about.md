@@ -7,6 +7,25 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  /* 针对 AcademicPages / Minimal Mistakes 模板强制拓宽主内容区域 */
+  .wrapper, 
+  .container, 
+  .markdown-body, 
+  main, 
+  #main, 
+  article, 
+  .post, 
+  .page,
+  .page__content,
+  .archive,
+  .page-content, 
+  .post-content {
+    max-width: 1100px !important; /* 可以根据需要调整，如 1100px 或 1200px */
+    width: 100% !important;
+  }
+</style>
+
 I am a first-year master's student at the [School of Statistics](http://stat.ruc.edu.cn/Home/index.htm), [Renmin University of China](https://en.ruc.edu.cn/), advised by [Prof. Feng Zhou](https://zhoufeng6288.github.io/).  
 <b><span style="color:red">I am currently seeking PhD opportunities for Fall 2027.</span></b>
 
@@ -49,7 +68,7 @@ Publications
   <br> **Jiaming Zhang**\*, Mingxi Lei\*, Meng Ding, Mengdi Li, Zihang Xiang, Difei Xu, Jinhui Xu, Di Wang
   <br> *Conference on Language Modeling (CoLM 2025)* &nbsp; [![arXiv](https://img.shields.io/badge/arXiv-2502.17515-B31B1B?style=flat-square&logo=arxiv)](https://arxiv.org/pdf/2502.17515)
 
-- <span id="icml26b"></span>**[ICML'26b]****Algorithmic Recourse of In-Context Learning for Tabular Data**
+- <span id="icml26b"></span>**[ICML'26b]** **Algorithmic Recourse of In-Context Learning for Tabular Data**
   <br> Wenshuo Dong\*, **Jiaming Zhang**\*, Shaopneg Fu, Hongbin Lin, Di Wang, Lijie Hu
   <br>*International Conference on Machine Learning (ICML 2026)* &nbsp; [![CCF-A](https://img.shields.io/badge/CCF--A-E11D48?style=flat-square)](#) [![arXiv](https://img.shields.io/badge/arXiv-2605.31272-B31B1B?style=flat-square&logo=arxiv)](https://arxiv.org/pdf/2605.31272)
 
