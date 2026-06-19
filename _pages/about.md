@@ -8,20 +8,8 @@ redirect_from:
 ---
 
 <style>
-  /* 1. 仅拓宽最外层的网页包裹容器，给整个页面腾出更大的横向空间 */
   .wrapper {
-    max-width: 1350px !important; /* 调大整体页面的最大宽度（默认通常是 1280px 以下） */
-  }
-
-  /* 2. 恢复主题自带的双栏计算，彻底防止内容与左侧头像重叠 */
-  .page, 
-  .page__content, 
-  .archive, 
-  .post, 
-  .page-content, 
-  .post-content {
-    width: auto !important; 
-    max-width: none !important;
+    max-width: 1350px !important; 
   }
 </style>
 
