@@ -23,15 +23,11 @@ Internships
   * Supervisor: **[Di Wang](https://shao3wangdi.github.io/)**
 
 
-* 10/2024 - 6/2025: Intern
-  * Intelligent Game and Decision Laboratory
-  * Duties includes: Developed and implemented anomaly detection algorithms for spacecraft telemetry data using advanced generative models (LSTM-VAE, Transformer-AE) and kernel density estimation.
-  * Supervisor: Xiaohu Zheng
 
 Publications
 ======
 
-[Efficient Forward-Only Data Valuation for Pretrained LLMs and VLMs](https://arxiv.org/pdf/2508.10180)  ACL 2026
+[Efficient Forward-Only Data Valuation for Pretrained LLMs and VLMs](https://arxiv.org/pdf/2508.10180)  ACL Main 2026
 - Wenlong Deng, Qi Zeng, **Jiaming Zhang**, Christos Thrampoulidis, Boying Gong, Xiaoxiao Li
 - We propose For-Value, a forward-only data valuation framework for LLMs and VLMs. It estimates per-sample influence with a single forward pass using hidden representation alignment and prediction errors, avoiding gradients or retraining. For-Value achieves scalable influence estimation and outperforms gradient-based baselines in fine-tuning and mislabeled data detection.
 
@@ -41,9 +37,6 @@ Publications
 - Developed AUP-RLHF, a novel framework integrating user-level label differential privacy (DP) into Reinforcement Learning with Human Feedback (RLHF) to protect user preference privacy. Demonstrated that traditional Random Response algorithms perform suboptimally in user-level settings. Proposed a lower bound for user-level DP-RLHF and designed the AUP-RLHF algorithm, achieving ($\varepsilon$,$\delta$)-user-level privacy with improved estimation error.
 
 
-[A Case-Based Reasoning Framework for Multi-Hazard Assessment of Earthquake Impacts](https://ceur-ws.org/Vol-3708/paper_17.pdf)  ICCBR2024
-- Yiding Dou\*, **Jiaming Zhang**\*, Yuxin Li, Ruyi Qi, Zimeng Yuan, Yanbing Bai, Erick Mas, Shunichi Koshimura
-- Developed an enhanced causal graph Bayesian network integrated with a case-based reasoning framework for multi-hazard impact assessment. This method shows robust adaptability to noisy data and significantly improves accuracy compared to prior models (e.g., USGS). Applied to analyze major earthquakes in Turkey (2023) and Japan (2024), it offers a high-precision, scalable, and unsupervised learning approach for earthquake damage estimation.
 
 Teaching
 ======
@@ -52,5 +45,5 @@ Teaching
 
 Skills
 ======
-- **Programing**: C/C++, Python(PyTorch, Tensorflow, Scikit-learn, etc.), SQL, MATLAB, R, GitHub, LeTaX  
-- **Languages**: CET6
+- **Programing**: C/C++, Python, SQL, MATLAB, R, GitHub, LeTaX  
+- **Languages**: TOEFL, CET6
