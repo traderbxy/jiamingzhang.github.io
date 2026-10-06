@@ -28,7 +28,7 @@ My research broadly lies in **Trustworthy AI**, with a particular focus on deepe
 
 - **Deep Learning Theory:** Deepening our theoretical understanding of how deep neural networks train and generalize, covering feature learning [[ICML'26a](#icml26a), [Arxiv'26](#arxiv26)], and in-context learning [[ICML'26b]](#icml26b).
 
-- **Algorithmic Efficiency:** Developing principled and efficient methods to optimize both training and inference. My current focus includes low-overhead data-centric valuation [[ACL'26]](#acl26) and algorithmic inference acceleration through speculative decoding.
+- **Algorithmic Efficiency:** Developing principled and efficient methods to optimize both training and inference. My current focus includes low-overhead data-centric valuation [[ACL'26]](#acl26) and algorithmic inference acceleration through speculative decoding[[Arxiv'26b]](#iclr27).
 
 News
 ======
@@ -64,11 +64,27 @@ Publications
   <br> Wenlong Deng, Qi Zeng, **Jiaming Zhang**, Christos Thrampoulidis, Boying Gong, Xiaoxiao Li
   <br> *Association for Computational Linguistics (ACL Main 2026)* &nbsp; [![CCF-A](https://img.shields.io/badge/CCF--A-E11D48?style=flat-square)](#) [![arXiv](https://img.shields.io/badge/arXiv-2508.10180-B31B1B?style=flat-square&logo=arxiv)](https://arxiv.org/pdf/2508.10180)
 
-- <span id="arxiv26"></span>**[ArXiv'26]** **Understanding the Impact of Differentially Private Training on Memorization of Long-Tailed Data**
+- <span id="arxiv26"></span>**[ICLR DATA-FM'26]** **Understanding the Impact of Differentially Private Training on Memorization of Long-Tailed Data**
   <br> **Jiaming Zhang**\*, Huanyi Xie\*, Meng Ding, Shaopeng Fu, Jinyan Liu, Di Wang
-  <br> *Submitted to NeurIPS 2026* &nbsp; [![arXiv](https://img.shields.io/badge/arXiv-2602.03872-B31B1B?style=flat-square&logo=arxiv)](https://arxiv.org/pdf/2602.03872)
+  <br> *Submitted to ICLR'27* &nbsp; [![arXiv](https://img.shields.io/badge/arXiv-2602.03872-B31B1B?style=flat-square&logo=arxiv)](https://arxiv.org/pdf/2602.03872)
 
+- <span id="iclr27"></span>**[Submitted to ICLR'27]** **MDSeq: Sequence-Level Verification for Multi-Draft Speculative Decoding**
+  <br> **Jiaming Zhang**, Feng Zhou
+  <br> *Submitted to ICLR'27* 
 
 Teaching
 ======
+- Teaching Assistant of Optimization Methods, 2026 fall, Renmin University of China
 - Teaching Assistant of Regression Analysis, 2024 fall, Renmin University of China
+
+Service
+======
+- Conference Reviewer: NeurIPS 2026, ICLR 2027
+
+Honer
+======
+- 2025–2026, National Scholarship
+- 2023–2024, Second Prize Scholarship(top 5%), Renmin University of China
+- 2021–2022, Third Prize Scholarship(top 15%), Renmin University of China
+- 2021, Second Prize (Beijing Region), China Undergraduate Mathematical Contest in Modeling
+- 2020, Second Prize (Shandong Province; Ranked 96th), Chinese High School Mathematics League
