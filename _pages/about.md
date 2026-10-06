@@ -86,5 +86,5 @@ Honer
 - 2025–2026, National Scholarship
 - 2023–2024, Second Prize Scholarship(top 5%), Renmin University of China
 - 2021–2022, Third Prize Scholarship(top 15%), Renmin University of China
-- 2021, Second Prize (Beijing Region), China Undergraduate Mathematical Contest in Modeling
-- 2020, Second Prize (Shandong Province; Ranked 96th), Chinese High School Mathematics League
+- 2021, Second Prize (Beijing), China Undergraduate Mathematical Contest in Modeling
+- 2020, Second Prize (Shandong), Chinese High School Mathematics League (96th Overall)
